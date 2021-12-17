@@ -1,0 +1,72 @@
+body{ 
+	margin-bottom: 0px;
+	padding: 0px;
+	background: url('https://i.postimg.cc/ryt7JvyL/BG-Home-STM.jpg');
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	height: 600px;
+	}
+.login-box{
+	position: absolute;
+	width: 400px;
+	height: 450px; 
+	top: 17%;
+	left: 50%;
+	color: #fff;
+	background: ;
+	background: rgba(100,100,100,0.5);
+	border-radius: 20px;
+	padding: 100px 70px;
+	box-sizing:  border-box;
+}
+.login {
+	margin-top: -20px;
+	text-align: center;
+	font-size: 40px;
+}
+.login-box p{
+	margin-top: 20%;
+	position: static;
+	text-align: center;
+	font-size: 120%;
+	}
+.login-box input {
+	position: static;
+}
+.login-box input[type="text"],input[type="password"]  {
+	border: none;
+	border-bottom: 2px solid #ffff;
+	background: transparent;
+	outline: none;
+	color: #ffff;
+	font-size: 21px;
+}
+
+
+
+.login-box input[type="submit"] {
+	position: absolute;
+	top: 87%;
+	left: 16%;
+	border: none;
+	outline: none;
+	height: 35px;
+	width: 279px;
+	color: #0000ff;
+	font-size: 18px;
+	border-radius: 10px;
+	color: #ffff;
+	background: #0000ff;
+}
+
+.osis {
+	position: absolute;
+	top: 150px;
+	left: 170px;
+	}
+.fotoakun {
+	position: absolute;
+	top: 30px;
+	left: 807px;
+	}
